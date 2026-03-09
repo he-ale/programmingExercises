@@ -2,4 +2,6 @@ leetcode/typeScriptLanguage/node_modules
 
 .vscode
 
+#g++ Pow.cpp -o temp.exe && temp.exe && del temp.exe
+#g++ Pow.cpp -o temp.exe && ./temp.exe && rm temp.exe
 #donet script "name"
